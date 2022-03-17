@@ -1,0 +1,22 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color:#F3FBFF;
+}
+.quem-somos{
+    background-color:#D8FFF4 ;
+    color:blue;
+}
+.bata{
+    background-color:#A1C7E7;
+    color:blue;
+}
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.bg-footer{
+    background-color:black;
+    color: white;
+}
